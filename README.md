@@ -1,9 +1,8 @@
 <div align="center">
-
 <a href="https://capsule-render.vercel.app/">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312e81,50:6d28d9,100:4c1d95&section=header&text=&fontSize=0" width="100%" />
 </a>
-
+<img src="https://github.com/prashantgdev.png" width=200 />
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+AI%2FML+Engineer;Full+Stack+Developer;Building+Scalable+%26+Intelligent+Systems;Engineering+Ideas+Into+Production" alt="Typing SVG" />
 </a>
