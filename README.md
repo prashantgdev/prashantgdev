@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/prashantgde">
+<a href="https://www.linkedin.com/in/prashantgdev">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://youtube.com/@prashantgdev">
@@ -91,8 +91,6 @@ I am particularly interested in building products where software engineering and
 ---
 
 ## 🚀 Featured Projects
-
-> The projects below use **example data** as requested. Replace them with your actual projects when ready.
 
 <details>
 <summary><strong>AI-Powered Knowledge Assistant</strong></summary>
@@ -190,50 +188,6 @@ Real-World Products
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/prashantgdev">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=prashantgdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" alt="Prashant's GitHub Stats" />
-</a>
-
-<a href="https://github.com/prashantgdev">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantgdev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=prashantgdev&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Contribution Streak" />
-
-</div>
-
-> **Note:** These cards are generated dynamically from GitHub activity. They may take a little time to render or can temporarily fail when the public stats service is rate-limited.
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prashantgdev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
-> **Note:** Trophies are generated from your GitHub activity and will appear as your account earns qualifying achievements.
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantgdev&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&radius=8" width="100%" alt="GitHub Contribution Activity Graph" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -241,8 +195,6 @@ Real-World Products
 <img src="https://raw.githubusercontent.com/prashantgdev/prashantgdev/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 
 </div>
-
-> **Important:** The Snake image is created by a GitHub Actions workflow. The included `snake.yml` workflow must be added to `.github/workflows/` in your `prashantgdev` profile repository.
 
 ---
 
@@ -284,7 +236,7 @@ Open To:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/prashantgde">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/prashantgdev">LinkedIn</a> •
 <a href="https://youtube.com/@prashantgdev">YouTube</a> •
 <a href="https://instagram.com/prashantg.dev">Instagram</a> •
 <a href="https://m.facebook.com/profile.php?id=61587763258864">Facebook</a> •
