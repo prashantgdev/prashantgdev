@@ -19,11 +19,13 @@ jobs:
           github_user_name: prashantgdev
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.sv>
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
+          jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PUBLISH_BRANCH: output
